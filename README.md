@@ -10,7 +10,7 @@ Usage Instructions:
 
 3. Run the Java application.
 
-4. Access Swagger to interact with the API endpoints: Swagger
+4. Access Swagger to interact with the API endpoints: [Swagger UI](http://localhost:8080/swagger-ui/#)
 
 ## Key Features:
 
